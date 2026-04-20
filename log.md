@@ -7,7 +7,7 @@
 - also find bit difficulty with array syntax 
 
 
-##Day 2 - April 20, 2026
+## Day 2 - April 20, 2026
 
 - Solved: Valid Anagram (LC 242)
 
